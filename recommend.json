@@ -16,12 +16,6 @@
           "type": "app://playDetail"
         },
         {
-          "name": "林正英",
-          "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
-          "url": "http://dyscdnali1.douyucdn.cn/live/218859r7wrRDulDC.flv?uuid=",
-          "type": "app://playDetail"
-        },
-        {
           "name": "华语经典",
           "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
           "url": "http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv?uuid=",
@@ -36,63 +30,39 @@
         {
           "name": "科幻电影",
           "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
-          "url": "http://dyscdnali1.douyucdn.cn/live/4332rdOzEliVxLwT.flv?uuid=",
+          "url": "http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K_4000.flv?uuid=",
           "type": "app://playDetail"
         },
         {
-          "name": "科幻动作",
+          "name": "貝爺科幻",
           "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
-          "url": "http://dyscdnali1.douyucdn.cn/live/252802ryboKvsRTt.flv?uuid=",
+          "url": "http://dyscdnali1.douyucdn.cn/live/252802rUnat4CUof_900.flv?uuid=",
           "type": "app://playDetail"
-        },
+        },        
+        {
+          "name": "貝爺科幻(MAX)",
+          "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
+          "url": "http://dyscdnali1.douyucdn.cn/live/4332rXTDsfDfdOTr_900.flv?uuid=",
+          "type": "app://playDetail"
+        },  
         {
           "name": "欧美大片",
           "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
-          "url": "http://dyscdnali1.douyucdn.cn/live/2793084rFV7D4nC0.flv?uuid=",
-          "type": "app://playDetail"
-        },
-        {
-          "name": "极致蓝光",
-          "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
-          "url": "http://dyscdnali1.douyucdn.cn/live/747764rfA3HOpaVl.flv?uuid=",
-          "type": "app://playDetail"
-        },
-        {
-          "name": "万万没想到",
-          "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
-          "url": "http://dyscdnali1.douyucdn.cn/live/9220456rRnfjxDd4.flv?uuid=",
+          "url": "http://dyscdnali1.douyucdn.cn/live/2793084rOv5omCuI.flv?uuid=",
           "type": "app://playDetail"
         },
         {
           "name": "五分钟一部电影",
           "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
-          "url": "http://dyscdnali1.douyucdn.cn/live/2758565rTRfItrI5.flv?uuid=",
+          "url": "http://dyscdnali1.douyucdn.cn/live/2758565rNWGM3qGn_900.flv?uuid=",
           "type": "app://playDetail"
         },
         {
-          "name": "动漫解说",
+          "name": "哈利波特",
           "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
-          "url": "http://dyscdnali1.douyucdn.cn/live/9527700rGSdHgPo4.flv?uuid=",
+          "url": "http://dyscdnali1.douyucdn.cn/live/8814650rTwcdxoX6.flv?uuid=",
           "type": "app://playDetail"
-        },
-        {
-          "name": "新三国",
-          "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
-          "url": "http://dyscdnali1.douyucdn.cn/live/276200rMNYH0Wmj1.flv?uuid=",
-          "type": "app://playDetail"
-        },
-        {
-          "name": "猫和老鼠",
-          "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
-          "url": "http://dyscdnali1.douyucdn.cn/live/7528160rzWwPUO7g.flv?uuid=",
-          "type": "app://playDetail"
-        },
-        {
-          "name": "Running Man",
-          "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
-          "url": "http://dyscdnali1.douyucdn.cn/live/7298973rVquPyzCT.flv?uuid=",
-          "type": "app://playDetail"
-        },
+        },        
         {
           "name": "韩国女团",
           "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
