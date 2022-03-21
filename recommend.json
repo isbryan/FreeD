@@ -28,6 +28,12 @@
           "type": "app://playDetail"
         },
         {
+          "name": "漫威电影",
+          "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
+          "url": "http://dyscdnali1.douyucdn.cn/live/6140589rK4T1xg8k.flv?uuid=",
+          "type": "app://playDetail"
+        },
+        {
           "name": "科幻电影",
           "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
           "url": "http://dyscdnali1.douyucdn.cn/live/4332rdOzEliVxLwT.flv?uuid=",
