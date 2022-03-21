@@ -1,7 +1,18 @@
 {
     "data":[
         {
-            "name":"Gimy",
+            "name":"Gimy(Web)",
+            "pic":"https://apkresult.com/Logos/gimy-appresult.jpg",
+            "keyDownPlay":false,
+            "keyUpPlay":false,
+            "userAgent":"PC",
+            "ads":"",
+            "webUrl":"https://gimytv.com/",
+            "webOpen":true,
+            "click":true
+        },	    
+        {
+            "name":"Gimy(Rule)",
             "pic":"https://gimytv.app/template/gstyle/statics/image/20210412/d2250b7fb.png",
             "type":"webPlug",
             "ads":"",
